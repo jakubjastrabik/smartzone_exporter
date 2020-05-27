@@ -55,9 +55,9 @@ python smartzone_exporter.py -u jimmy -p jangles -t https://ruckus.jjangles.com:
 ## Requirements
 This exporter has been tested on the following versions:
 
-| Model | Version     |
-|-------|-------------|
-| vSZ-H | 5.2.0.0.699 |
+| Model    | Version     |
+|----------|-------------|
+| SZ - 100 | 5.2.0.0.699 |
 
 ## Installation
 ```
